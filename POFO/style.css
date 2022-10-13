@@ -1,0 +1,89 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} 
+textarea {overflow:auto;}
+/***** RESET *****/
+
+.umumi{
+    width: 1206px;
+    height:auto;
+    margin:0 auto;
+}
+.umumi .qutu{
+    width: 370px;;
+    float:left;
+    margin:15px;
+    border:1px solid;
+    border-color:#d1d1d1;
+    
+}
+
+.umumi .qutu .sekil{
+    width:100%;
+}
+.yazi .baslik{
+    display:block;
+    float:left;
+    text-decoration:none; 
+    font-family:sans-serif;
+    margin-left:30px;
+    margin-top:20px ;
+    color:#1d81bb;
+   
+
+}
+.yazi .pul{
+    display:block;
+    float:left;
+    margin-left:130px;
+    margin-top:20px;
+    font-family:sans-serif;
+    font-size:18px;
+    color: #000000c6;
+    
+}
+
+.yazi .metn{
+    text-align:left;
+    margin-left:30px;
+    margin-top:10px;
+    font-family:sans-serif;
+    color:gray;
+    margin-bottom: 30px;
+  
+}
+.yazi ul{
+    margin-left:25px;
+}
+
+.yazi ul li {
+    float:left;
+    margin:5px;
+    color: #f15f11;
+    font-size:15px;
+}
+.yazi .yorum{
+    float:left;
+    margin-left:100px;
+    color: #f15f11;
+    font-family:sans-serif;
+    font-size:13px;
+    margin-top:10px;
+    font-weight:bold;
+    margin-bottom:35px;
+}
+
